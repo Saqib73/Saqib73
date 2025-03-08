@@ -43,8 +43,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
-  <a href="https://www.Javascript.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devocon/master/icons/javascript/javascript-original.svg" alt="javascript" width  
-  </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 </p>
 
