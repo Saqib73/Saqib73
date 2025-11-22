@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saqib Ali Ansari</h1>
 
+## 💡 Overview
+
+I am a passionate and results-driven professional focused on transforming complex data into **actionable insights**. My experience spans the entire data pipeline, from cleaning and processing raw data using **SQL** and **Python** to developing comprehensive visualizations and dashboards with **Power BI**. I leverage **Machine Learning** techniques to build predictive models and drive data-informed strategies.
+
+---
 
 - 📫 How to reach me **sa263797@gmail.com**
 
@@ -29,7 +34,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  
 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/200px-Scikit_learn_logo_small.svg.png" alt="machine learning" title="Machine Learning (scikit-learn/ML)" width="40" height="40"/>
+     </a>
+
+   
 </p>
 
